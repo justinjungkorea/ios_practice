@@ -18,6 +18,17 @@
 		E716CA3922E02092007054AA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E716CA3822E02092007054AA /* Assets.xcassets */; };
 		E716CA3C22E02092007054AA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E716CA3A22E02092007054AA /* LaunchScreen.storyboard */; };
 		E73954C322F178EF009E8E5F /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E73954C222F178EF009E8E5F /* SecondViewController.swift */; };
+		E73954CB22F1D692009E8E5F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E73954CA22F1D692009E8E5F /* AppDelegate.swift */; };
+		E73954CD22F1D692009E8E5F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E73954CC22F1D692009E8E5F /* ViewController.swift */; };
+		E73954D022F1D692009E8E5F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E73954CE22F1D692009E8E5F /* Main.storyboard */; };
+		E73954D222F1D693009E8E5F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E73954D122F1D693009E8E5F /* Assets.xcassets */; };
+		E73954D522F1D693009E8E5F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E73954D322F1D693009E8E5F /* LaunchScreen.storyboard */; };
+		E73954DB22F1D77C009E8E5F /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E73954DA22F1D77C009E8E5F /* SecondViewController.swift */; };
+		E73954E322F1EA5C009E8E5F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E73954E222F1EA5C009E8E5F /* AppDelegate.swift */; };
+		E73954E522F1EA5C009E8E5F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E73954E422F1EA5C009E8E5F /* ViewController.swift */; };
+		E73954E822F1EA5C009E8E5F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E73954E622F1EA5C009E8E5F /* Main.storyboard */; };
+		E73954EA22F1EA5D009E8E5F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E73954E922F1EA5D009E8E5F /* Assets.xcassets */; };
+		E73954ED22F1EA5D009E8E5F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E73954EB22F1EA5D009E8E5F /* LaunchScreen.storyboard */; };
 		E74262B922E03FFE00BFBF0C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E74262B822E03FFE00BFBF0C /* AppDelegate.swift */; };
 		E74262BB22E03FFE00BFBF0C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E74262BA22E03FFE00BFBF0C /* ViewController.swift */; };
 		E74262BE22E03FFE00BFBF0C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E74262BC22E03FFE00BFBF0C /* Main.storyboard */; };
@@ -86,6 +97,21 @@
 		E716CA3B22E02092007054AA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E716CA3D22E02092007054AA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E73954C222F178EF009E8E5F /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		E73954C822F1D692009E8E5F /* switchController2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = switchController2.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E73954CA22F1D692009E8E5F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		E73954CC22F1D692009E8E5F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		E73954CF22F1D692009E8E5F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		E73954D122F1D693009E8E5F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		E73954D422F1D693009E8E5F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		E73954D622F1D693009E8E5F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E73954DA22F1D77C009E8E5F /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		E73954E022F1EA5C009E8E5F /* TabController.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TabController.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E73954E222F1EA5C009E8E5F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		E73954E422F1EA5C009E8E5F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		E73954E722F1EA5C009E8E5F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		E73954E922F1EA5D009E8E5F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		E73954EC22F1EA5D009E8E5F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		E73954EE22F1EA5D009E8E5F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E74262B622E03FFE00BFBF0C /* gestureTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = gestureTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E74262B822E03FFE00BFBF0C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E74262BA22E03FFE00BFBF0C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -168,6 +194,20 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 		E716CA2C22E02091007054AA /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E73954C522F1D692009E8E5F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E73954DD22F1EA5C009E8E5F /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -263,6 +303,8 @@
 				E7FEF58822F02DA4000ACBEB /* TimerPractice */,
 				E7FEF59E22F02FD5000ACBEB /* delegatePractice */,
 				E7FEF5B422F037AA000ACBEB /* UIAlertontrollerPractice */,
+				E73954C922F1D692009E8E5F /* switchController2 */,
+				E73954E122F1EA5C009E8E5F /* TabController */,
 				E716CA1722E02054007054AA /* Products */,
 			);
 			sourceTree = "<group>";
@@ -282,6 +324,8 @@
 				E7FEF58722F02DA4000ACBEB /* TimerPractice.app */,
 				E7FEF59D22F02FD5000ACBEB /* delegatePractice.app */,
 				E7FEF5B322F037AA000ACBEB /* UIAlertontrollerPractice.app */,
+				E73954C822F1D692009E8E5F /* switchController2.app */,
+				E73954E022F1EA5C009E8E5F /* TabController.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -310,6 +354,33 @@
 				E716CA3D22E02092007054AA /* Info.plist */,
 			);
 			path = touchevent;
+			sourceTree = "<group>";
+		};
+		E73954C922F1D692009E8E5F /* switchController2 */ = {
+			isa = PBXGroup;
+			children = (
+				E73954CA22F1D692009E8E5F /* AppDelegate.swift */,
+				E73954CC22F1D692009E8E5F /* ViewController.swift */,
+				E73954CE22F1D692009E8E5F /* Main.storyboard */,
+				E73954DA22F1D77C009E8E5F /* SecondViewController.swift */,
+				E73954D122F1D693009E8E5F /* Assets.xcassets */,
+				E73954D322F1D693009E8E5F /* LaunchScreen.storyboard */,
+				E73954D622F1D693009E8E5F /* Info.plist */,
+			);
+			path = switchController2;
+			sourceTree = "<group>";
+		};
+		E73954E122F1EA5C009E8E5F /* TabController */ = {
+			isa = PBXGroup;
+			children = (
+				E73954E222F1EA5C009E8E5F /* AppDelegate.swift */,
+				E73954E422F1EA5C009E8E5F /* ViewController.swift */,
+				E73954E622F1EA5C009E8E5F /* Main.storyboard */,
+				E73954E922F1EA5D009E8E5F /* Assets.xcassets */,
+				E73954EB22F1EA5D009E8E5F /* LaunchScreen.storyboard */,
+				E73954EE22F1EA5D009E8E5F /* Info.plist */,
+			);
+			path = TabController;
 			sourceTree = "<group>";
 		};
 		E74262B722E03FFE00BFBF0C /* gestureTest */ = {
@@ -478,6 +549,40 @@
 			name = touchevent;
 			productName = touchevent;
 			productReference = E716CA2F22E02091007054AA /* touchevent.app */;
+			productType = "com.apple.product-type.application";
+		};
+		E73954C722F1D692009E8E5F /* switchController2 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E73954D722F1D693009E8E5F /* Build configuration list for PBXNativeTarget "switchController2" */;
+			buildPhases = (
+				E73954C422F1D692009E8E5F /* Sources */,
+				E73954C522F1D692009E8E5F /* Frameworks */,
+				E73954C622F1D692009E8E5F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = switchController2;
+			productName = switchController2;
+			productReference = E73954C822F1D692009E8E5F /* switchController2.app */;
+			productType = "com.apple.product-type.application";
+		};
+		E73954DF22F1EA5C009E8E5F /* TabController */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E73954EF22F1EA5D009E8E5F /* Build configuration list for PBXNativeTarget "TabController" */;
+			buildPhases = (
+				E73954DC22F1EA5C009E8E5F /* Sources */,
+				E73954DD22F1EA5C009E8E5F /* Frameworks */,
+				E73954DE22F1EA5C009E8E5F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = TabController;
+			productName = TabController;
+			productReference = E73954E022F1EA5C009E8E5F /* TabController.app */;
 			productType = "com.apple.product-type.application";
 		};
 		E74262B522E03FFE00BFBF0C /* gestureTest */ = {
@@ -666,6 +771,12 @@
 					E716CA2E22E02091007054AA = {
 						CreatedOnToolsVersion = 10.2.1;
 					};
+					E73954C722F1D692009E8E5F = {
+						CreatedOnToolsVersion = 10.3;
+					};
+					E73954DF22F1EA5C009E8E5F = {
+						CreatedOnToolsVersion = 10.3;
+					};
 					E74262B522E03FFE00BFBF0C = {
 						CreatedOnToolsVersion = 10.2.1;
 					};
@@ -723,6 +834,8 @@
 				E7FEF58622F02DA4000ACBEB /* TimerPractice */,
 				E7FEF59C22F02FD5000ACBEB /* delegatePractice */,
 				E7FEF5B222F037AA000ACBEB /* UIAlertontrollerPractice */,
+				E73954C722F1D692009E8E5F /* switchController2 */,
+				E73954DF22F1EA5C009E8E5F /* TabController */,
 			);
 		};
 /* End PBXProject section */
@@ -745,6 +858,26 @@
 				E716CA3C22E02092007054AA /* LaunchScreen.storyboard in Resources */,
 				E716CA3922E02092007054AA /* Assets.xcassets in Resources */,
 				E716CA3722E02091007054AA /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E73954C622F1D692009E8E5F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E73954D522F1D693009E8E5F /* LaunchScreen.storyboard in Resources */,
+				E73954D222F1D693009E8E5F /* Assets.xcassets in Resources */,
+				E73954D022F1D692009E8E5F /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E73954DE22F1EA5C009E8E5F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E73954ED22F1EA5D009E8E5F /* LaunchScreen.storyboard in Resources */,
+				E73954EA22F1EA5D009E8E5F /* Assets.xcassets in Resources */,
+				E73954E822F1EA5C009E8E5F /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -866,6 +999,25 @@
 			files = (
 				E716CA3422E02091007054AA /* ViewController.swift in Sources */,
 				E716CA3222E02091007054AA /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E73954C422F1D692009E8E5F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E73954DB22F1D77C009E8E5F /* SecondViewController.swift in Sources */,
+				E73954CD22F1D692009E8E5F /* ViewController.swift in Sources */,
+				E73954CB22F1D692009E8E5F /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E73954DC22F1EA5C009E8E5F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E73954E522F1EA5C009E8E5F /* ViewController.swift in Sources */,
+				E73954E322F1EA5C009E8E5F /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -991,6 +1143,38 @@
 			isa = PBXVariantGroup;
 			children = (
 				E716CA3B22E02092007054AA /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		E73954CE22F1D692009E8E5F /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				E73954CF22F1D692009E8E5F /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		E73954D322F1D693009E8E5F /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				E73954D422F1D693009E8E5F /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		E73954E622F1EA5C009E8E5F /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				E73954E722F1EA5C009E8E5F /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		E73954EB22F1EA5D009E8E5F /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				E73954EC22F1EA5D009E8E5F /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -1340,6 +1524,82 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.justin.dongwookjung.touchevent;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		E73954D822F1D693009E8E5F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 4TTJDQ6P4J;
+				INFOPLIST_FILE = switchController2/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.4;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.justin.dongwookjung.switchController2;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		E73954D922F1D693009E8E5F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 4TTJDQ6P4J;
+				INFOPLIST_FILE = switchController2/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.4;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.justin.dongwookjung.switchController2;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		E73954F022F1EA5D009E8E5F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 4TTJDQ6P4J;
+				INFOPLIST_FILE = TabController/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.4;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.justin.dongwookjung.TabController;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		E73954F122F1EA5D009E8E5F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 4TTJDQ6P4J;
+				INFOPLIST_FILE = TabController/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.4;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.justin.dongwookjung.TabController;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -1748,6 +2008,24 @@
 			buildConfigurations = (
 				E716CA3F22E02092007054AA /* Debug */,
 				E716CA4022E02092007054AA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E73954D722F1D693009E8E5F /* Build configuration list for PBXNativeTarget "switchController2" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E73954D822F1D693009E8E5F /* Debug */,
+				E73954D922F1D693009E8E5F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E73954EF22F1EA5D009E8E5F /* Build configuration list for PBXNativeTarget "TabController" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E73954F022F1EA5D009E8E5F /* Debug */,
+				E73954F122F1EA5D009E8E5F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
